@@ -1,0 +1,12 @@
+[
+    {
+        "text": "¿qué tiempo hace hoy?",
+        "intent": "get_weather",
+        "language": "es"
+    },
+    {
+        "text": "pon algo de música",
+        "intent": "play_music",
+        "language": "es"
+    }
+] 

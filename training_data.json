@@ -1,0 +1,398 @@
+[
+  {
+    "text": "Tell me the time",
+    "label": "get_time"
+  },
+  {
+    "text": "How's the visibility outside?",
+    "label": "get_weather"
+  },
+  {
+    "text": "I need an alarm for work",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Set a timer for 10 minutes",
+    "label": "set_timer"
+  },
+  {
+    "text": "I need directions to downtown",
+    "label": "get_directions"
+  },
+  {
+    "text": "Don't let me forget to pay the bills",
+    "label": "set_reminder"
+  },
+  {
+    "text": "What day is it today?",
+    "label": "get_date"
+  },
+  {
+    "text": "Current time please",
+    "label": "get_time"
+  },
+  {
+    "text": "Set an alarm for 7 AM",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Route to the shopping mall",
+    "label": "get_directions"
+  },
+  {
+    "text": "Set a wake-up call",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Stream my favorite artist",
+    "label": "play_music"
+  },
+  {
+    "text": "Is it weekend?",
+    "label": "get_date"
+  },
+  {
+    "text": "Set a reminder for my meeting",
+    "label": "set_reminder"
+  },
+  {
+    "text": "Play some music",
+    "label": "play_music"
+  },
+  {
+    "text": "Set up a birthday reminder",
+    "label": "set_reminder"
+  },
+  {
+    "text": "Set a countdown for the laundry",
+    "label": "set_timer"
+  },
+  {
+    "text": "Is it hot today?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Start my favorite playlist",
+    "label": "play_music"
+  },
+  {
+    "text": "Do you have the time?",
+    "label": "get_time"
+  },
+  {
+    "text": "Could you wake me at sunrise?",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Find information about dogs",
+    "label": "web_search"
+  },
+  {
+    "text": "Schedule a wake-up alarm",
+    "label": "set_alarm"
+  },
+  {
+    "text": "What hour is it?",
+    "label": "get_time"
+  },
+  {
+    "text": "Create a reminder for the weekend",
+    "label": "set_reminder"
+  },
+  {
+    "text": "How's the weather looking?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Time check",
+    "label": "get_time"
+  },
+  {
+    "text": "Got the time?",
+    "label": "get_time"
+  },
+  {
+    "text": "Play something relaxing",
+    "label": "play_music"
+  },
+  {
+    "text": "I need a countdown",
+    "label": "set_timer"
+  },
+  {
+    "text": "Can you play some songs?",
+    "label": "play_music"
+  },
+  {
+    "text": "Wake me up at 6:30",
+    "label": "set_alarm"
+  },
+  {
+    "text": "What's the time in New York?",
+    "label": "get_time"
+  },
+  {
+    "text": "Play the latest hits",
+    "label": "play_music"
+  },
+  {
+    "text": "Search for Italian restaurants",
+    "label": "web_search"
+  },
+  {
+    "text": "What's the forecast for today?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Search the web for recipes",
+    "label": "web_search"
+  },
+  {
+    "text": "Start the party playlist",
+    "label": "play_music"
+  },
+  {
+    "text": "Add event to calendar",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Local time please",
+    "label": "get_time"
+  },
+  {
+    "text": "Find me a way to the restaurant",
+    "label": "get_directions"
+  },
+  {
+    "text": "How do I get to the airport?",
+    "label": "get_directions"
+  },
+  {
+    "text": "Will I need a jacket?",
+    "label": "get_weather"
+  },
+  {
+    "text": "What's the wind speed right now?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Look up movie times",
+    "label": "web_search"
+  },
+  {
+    "text": "What's the temperature outside?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Set a morning alarm",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Put on some background music",
+    "label": "play_music"
+  },
+  {
+    "text": "What's today's date?",
+    "label": "get_date"
+  },
+  {
+    "text": "Put this in my calendar",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Is it cold outside?",
+    "label": "get_weather"
+  },
+  {
+    "text": "What month is it?",
+    "label": "get_date"
+  },
+  {
+    "text": "Look for local events",
+    "label": "web_search"
+  },
+  {
+    "text": "Add appointment to my schedule",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Begin timer now",
+    "label": "set_timer"
+  },
+  {
+    "text": "Set a timer for cooking",
+    "label": "set_timer"
+  },
+  {
+    "text": "Tell me the current month",
+    "label": "get_date"
+  },
+  {
+    "text": "Start a 5-minute timer",
+    "label": "set_timer"
+  },
+  {
+    "text": "Remind me to call mom",
+    "label": "set_reminder"
+  },
+  {
+    "text": "Tell me the current time",
+    "label": "get_time"
+  },
+  {
+    "text": "Search news about technology",
+    "label": "web_search"
+  },
+  {
+    "text": "What's the date now?",
+    "label": "get_date"
+  },
+  {
+    "text": "Create a new calendar event",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Play the top 40 hits",
+    "label": "play_music"
+  },
+  {
+    "text": "I need a timer for 45 minutes",
+    "label": "set_timer"
+  },
+  {
+    "text": "Can you time this for me?",
+    "label": "set_timer"
+  },
+  {
+    "text": "Set a reminder for tomorrow",
+    "label": "set_reminder"
+  },
+  {
+    "text": "Navigate to the nearest coffee shop",
+    "label": "get_directions"
+  },
+  {
+    "text": "Time this recipe for me",
+    "label": "set_timer"
+  },
+  {
+    "text": "What's the date today?",
+    "label": "get_date"
+  },
+  {
+    "text": "Put on some rock music",
+    "label": "play_music"
+  },
+  {
+    "text": "Find nearby coffee shops",
+    "label": "web_search"
+  },
+  {
+    "text": "Quick 1-minute timer",
+    "label": "set_timer"
+  },
+  {
+    "text": "What's the time now?",
+    "label": "get_time"
+  },
+  {
+    "text": "What's the fastest route to work?",
+    "label": "get_directions"
+  },
+  {
+    "text": "Play my workout playlist",
+    "label": "play_music"
+  },
+  {
+    "text": "Set multiple alarms for tomorrow",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Get me to the nearest gas station",
+    "label": "get_directions"
+  },
+  {
+    "text": "Will it rain tomorrow?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Time this for 2 hours",
+    "label": "set_timer"
+  },
+  {
+    "text": "Wake me up in 8 hours",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Is it going to be sunny?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Alarm for 9 PM please",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Put the party in my calendar",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Book a meeting room",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Remind me about the doctor's appointment",
+    "label": "set_reminder"
+  },
+  {
+    "text": "How far is the hospital?",
+    "label": "get_directions"
+  },
+  {
+    "text": "Tell me the date",
+    "label": "get_date"
+  },
+  {
+    "text": "I need to remember to buy groceries",
+    "label": "set_reminder"
+  },
+  {
+    "text": "Which day of the month is it?",
+    "label": "get_date"
+  },
+  {
+    "text": "Search for hiking trails",
+    "label": "web_search"
+  },
+  {
+    "text": "Set alarm for tomorrow morning",
+    "label": "set_alarm"
+  },
+  {
+    "text": "What time is it?",
+    "label": "get_time"
+  },
+  {
+    "text": "Check time for me",
+    "label": "get_time"
+  },
+  {
+    "text": "Show me the way home",
+    "label": "get_directions"
+  },
+  {
+    "text": "Should I expect any storms today?",
+    "label": "get_weather"
+  },
+  {
+    "text": "I need a reminder for my medication",
+    "label": "set_reminder"
+  },
+  {
+    "text": "Start countdown for 15 minutes",
+    "label": "set_timer"
+  },
+  {
+    "text": "Create event for next week",
+    "label": "calendar_event"
+  }
+]

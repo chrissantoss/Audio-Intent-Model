@@ -1,0 +1,102 @@
+[
+  {
+    "text": "I need to wake up at 8",
+    "label": "set_alarm"
+  },
+  {
+    "text": "I'm in the mood for some blues",
+    "label": "play_music"
+  },
+  {
+    "text": "I want to hear classical music",
+    "label": "play_music"
+  },
+  {
+    "text": "Current date please",
+    "label": "get_date"
+  },
+  {
+    "text": "3-minute timer please",
+    "label": "set_timer"
+  },
+  {
+    "text": "Remind me in 2 hours",
+    "label": "set_reminder"
+  },
+  {
+    "text": "Start a workout timer",
+    "label": "set_timer"
+  },
+  {
+    "text": "Look up movie reviews",
+    "label": "web_search"
+  },
+  {
+    "text": "Find phone number for the dentist",
+    "label": "web_search"
+  },
+  {
+    "text": "Do I need an umbrella today?",
+    "label": "get_weather"
+  },
+  {
+    "text": "I need to be up by 5:30 AM",
+    "label": "set_alarm"
+  },
+  {
+    "text": "Add birthday to calendar",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Play something for studying",
+    "label": "play_music"
+  },
+  {
+    "text": "Schedule a meeting for tomorrow",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Can you set an alarm?",
+    "label": "set_alarm"
+  },
+  {
+    "text": "What day of the week is it?",
+    "label": "get_date"
+  },
+  {
+    "text": "What's the weather going to be like this weekend?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Schedule dinner for Friday",
+    "label": "calendar_event"
+  },
+  {
+    "text": "Is there a chance of snow?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Direct me to the park",
+    "label": "get_directions"
+  },
+  {
+    "text": "Timer for 30 minutes",
+    "label": "set_timer"
+  },
+  {
+    "text": "Tell me today's date",
+    "label": "get_date"
+  },
+  {
+    "text": "What's the weather like today?",
+    "label": "get_weather"
+  },
+  {
+    "text": "Set a daily alarm",
+    "label": "set_alarm"
+  },
+  {
+    "text": "I want to listen to jazz",
+    "label": "play_music"
+  }
+]
